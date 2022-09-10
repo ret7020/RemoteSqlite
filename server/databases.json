@@ -1,0 +1,11 @@
+{
+    "test_db": {
+        "path": "./data/test.sql",
+        "users": [
+            {
+                "name": "test_user",
+                "password": "12345"
+            }
+        ]
+    }
+}
